@@ -56,3 +56,5 @@ DraftServer::Application.config.secret_key_base = ENV["APP_SECRET_KEY_BASE"]```
 * set up a staging.rb file in your environments directory
 
 ```git cp config/environments/production.rb config/environments/staging.rb```
+
+* more info about (heroku environments)[https://devcenter.heroku.com/articles/multiple-environments]
