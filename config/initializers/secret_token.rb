@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-DraftServer::Application.config.secret_key_base = 'd38962c31dab58e63463151e4604cb5eee2e98013eded082e8f8bb369932d733b1186ec37decb604d784f98980b80330399abdc9b526564819bca617c62ec1c5'
+DraftServer::Application.config.secret_key_base = ENV["APP_SECRET_KEY_BASE"]
