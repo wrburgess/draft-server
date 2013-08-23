@@ -17,5 +17,8 @@ tmp
 _yardoc
 
 .DS_store
+.env
 draft-server.sublime-project
 draft-server.sublime-workspace
+.powrc
+database.yml
