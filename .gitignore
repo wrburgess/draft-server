@@ -17,5 +17,5 @@ tmp
 _yardoc
 
 .DS_store
-draft-server.sublime_project
-draft-server.sublime_workspace
+draft-server.sublime-project
+draft-server.sublime-workspace
