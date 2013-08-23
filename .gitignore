@@ -15,4 +15,7 @@ tmp
 # YARD artifacts
 .yardoc
 _yardoc
-doc/
+
+.DS_store
+*.sublime_project
+*.sublime_workspace
