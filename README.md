@@ -1,5 +1,10 @@
 # draft-server
 
+[![Build Status](https://travis-ci.org/wrburgess/draft-server.png)](https://travis-ci.org/wrburgess/draft-server)
+[![Dependency Status](https://gemnasium.com/wrburgess/draft-server.png)](https://gemnasium.com/wrburgess/draft-server)
+[![Code Climate](https://codeclimate.com/github/wrburgess/draft-server.png)](https://codeclimate.com/github/wrburgess/draft-server)
+[![Coverage Status](https://coveralls.io/repos/wrburgess/draft-server/badge.png)](https://coveralls.io/r/wrburgess/draft-server)
+
 ## style
 
 * use double quotes ```"``` whenenver possible
@@ -33,6 +38,8 @@ DraftServer::Application.config.secret_key_base = ENV["APP_SECRET_KEY_BASE"]```
 * user
 
 ## foreman setup
+
+## travis setup
 
 ## settingslogic setup
 
