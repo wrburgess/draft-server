@@ -58,3 +58,6 @@ DraftServer::Application.config.secret_key_base = ENV["APP_SECRET_KEY_BASE"]```
 ```git cp config/environments/production.rb config/environments/staging.rb```
 
 * more info about (heroku environments)[https://devcenter.heroku.com/articles/multiple-environments]
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wrburgess/draft-server/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
